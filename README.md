@@ -1,1 +1,1 @@
-h
+This is a port that was made so I could play this classic at school on my Chromebook, however it is incredibly buggy and has a lot of erros for a plethora of reasons. But at least it sorta works, right?
